@@ -4,6 +4,7 @@
     {
         //tzivi stareshefsky
         string s = "tzivi stareshefsky";
+        string str2 = "star";
        
 
     }
