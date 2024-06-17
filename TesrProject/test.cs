@@ -2,10 +2,8 @@
 {
     public class test
     {
-        //tzivi stareshefsky
         string s = "tzivi stareshefsky";
         string str2 = "star";
-       
-
+        int i = 1;
     }
 }
