@@ -3,5 +3,8 @@
     public class test
     {
         //tzivi stareshefsky
+        string s = "tzivi stareshefsky";
+       
+
     }
 }
